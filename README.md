@@ -1,3 +1,5 @@
+# Open API 활용 guide
+
 ## 220813: https://www.youtube.com/watch?v=HoXWa3rsmxE
 - weatherAPI.ipynb
 - weather_every_hour.ipynb
